@@ -1,0 +1,25 @@
+{
+  "tiles": [
+    {
+      "title": "Introduction",
+      "content": "This section provides an overview of the topic and sets the context for the following content."
+    },
+    {
+      "title": "Background",
+      "content": "Covers relevant historical or contextual information to help understand the subject better."
+    },
+    {
+      "title": "Main Discussion",
+      "content": "This is the core section where key points, arguments, or data are explored in detail."
+    },
+    {
+      "title": "Analysis",
+      "content": "Breaks down the main points to highlight patterns, significance, or implications."
+    },
+    {
+      "title": "Conclusion",
+      "content": "Summarizes the main takeaways and may offer recommendations or next steps."
+    }
+  ]
+}
+

@@ -1,0 +1,22 @@
+.tile {
+    transition: 0.6s ease all;
+    width: 40%;
+    margin: 2rem;
+}
+.tilehead {
+    text-align: center;
+    font-weight: bold;
+    background-color:skyblue;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.tilebody {
+    /* position:inherit; */
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: 100;
+    padding: 0.8rem;
+    margin-top: 0.4rem;
+    border-radius: 1rem;
+    background-color:white;
+}
