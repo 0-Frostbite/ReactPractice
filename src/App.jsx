@@ -1,10 +1,10 @@
-import Accordian1 from "./Accordian1/Accordian1.jsx"
+import Accordian2 from "./Accordian2/Accordian2.jsx"
 import './App.css'
 
 export default function App() {
 
     return(
-    <><Accordian1/></>
+    <><Accordian2/></>
     )
 
 };
